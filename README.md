@@ -1,2 +1,2 @@
-# D3D11-Praactice
+# D3D11-Practice
 Practice for DirectX 11
